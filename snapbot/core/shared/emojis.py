@@ -1,0 +1,9 @@
+# Animated Emojis
+PURPLE_ARROW = "<a:animatedarrowpurple:1259790096081748018>"
+STAR = "<a:star:1259791117327663104>"
+SUCCESS = "<a:success:1259797584772464642>"
+ERROR = "<a:error:1259798522090360974>"
+
+# Non Animated Emojis
+DENIED = "<:decline:1259793604222910515>"
+INFO = "<:info:1259818935063150703>"

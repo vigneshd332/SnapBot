@@ -1,0 +1,18 @@
+name: Feature Request
+description: Request/Suggest a new feature.
+labels: feature
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to submit an issue! These improve SnapBot and makes the overall experience much better.
+  - type: textarea
+    attributes:
+      label: Describe the feature
+      description: A qucik and concise description of the feature.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional Comments
+      description: Any additional comments can be posted here.

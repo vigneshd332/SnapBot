@@ -1,0 +1,16 @@
+[bot]
+prefix = [ ">", "s!", "S!",]
+
+[roles]
+excluded_color_roles = [ "Sovereign", "manno", "Muted", "espresso", "Mau", "Ban Kardungi", "cussmiri", "Mrigsby", "hello", "Lycoris", "Night Goddess", "Smokey", "Keep Dancing",]
+staff_roles = [ 1202314306696527962, 1202308209910751313, 1252181566654779464, 1202322447190462475, 1250781883202146344,]
+
+[channels]
+logs = 1202312059098759269
+user_reports = 1258031683446509641
+confessions = 1224589225694072892
+color_roles_list = 1221746401747144744
+
+[developer]
+id = 1006586485144813691
+name = "kishh"
