@@ -219,7 +219,7 @@ Check out the [LICENSE](./LICENSE) file for more details.
     <td align="center">
       <img src="assets/contributors/kishh.jpg" width="100px;" />
       <br />
-      <sub><b>kishh</b></sub>
+      <sub><b>kishh never dies</b></sub>
     </td>
   </tr>
 </table>
